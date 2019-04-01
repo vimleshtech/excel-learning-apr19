@@ -1,0 +1,89 @@
+https://github.com/vimleshtech/excel-learning-apr19
+
+Excel Topics
+========================
+-> Excel Terms 
+-> Data Management
+-> Data Formating
+-> Functions 
+		-Text Function
+		-Date Function
+		-Maths Function 
+
+Excel Terms 
+===================
+-> Excel file is known is workbook
+-> Extension of excel file is 
+			.xls		MS Office <2007
+			.xlsx		MS Office >=2007
+		
+-> Excel wokbook is collection of worksheets
+
+-> Worksheet is combination of row and columns 
+
+-> Interaction of row and columns is called cell		
+
+-> Cell address
+	Example:
+	A1		:here A is col, and 1 is row  no 
+	
+		
+	
+Shortcut Keys:
+	ctrl+shift + right arrow  : select start to end (all cell in one row)
+	ctrl+shift + left arrow  : from right to left 
+	ctrl+shift + down arrow  : select one column from top to buttom
+	ctrl +shift + top arrow 
+
+			
+
+	ctrl+D 			: copy above cell data to below 
+	
+
+	ctrl+shift+ + 		: select and press the key to add new row or column
+	ctrl+ -			: to remove selected column or row 
+
+
+
+View Menu :(hide/show)
+	-GridLines
+	-Header
+	-Formula 
+	-Freeze pane 
+	
+
+Format:
+	Bold
+	Italic
+	Underline
+	Background color
+	Font color
+	Border
+	Allignment 
+		-vertical
+		-horizental 
+	
+	
+
+	wrap text : to covert one row to multiple rows  based on data 
+
+
+==========================
+Functions 
+		-Text Function
+			upper()
+			lower()
+			proper()  this is = This Is
+			len()     return count of letter/chars inculding space
+			left()	return text/char from left
+			right()  return text from right
+			find()   search given char/word and return the index/position
+			concatenate()		
+								
+
+		-Date Function
+			now()
+			today()
+		-Maths Function 
+
+	
